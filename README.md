@@ -1,11 +1,4 @@
-< align="center">
-  <br />
-      <img src="https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109" alt="Project Banner">
-    </a>
-  <br />
-
-
-<h3 align="center">Techode - Modern Agency Website</h3>
+<h1 align="center">Techode - Modern Agency Website</h1>
 
 
 ## 📋 <a name="table">Table of Contents</a>
