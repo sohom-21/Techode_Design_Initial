@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-<h3 align="center">Modern UI/UX SaaS Website</h3>
+<h3 align="center">Techode - Modern Agency Website</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
@@ -40,7 +40,7 @@ like these step-by-step in a beginner-friendly manner!
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles.
+Techode is a Modern Agency Website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles.
 Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or
 inspiration for future modern applications or websites in general.
 
@@ -57,8 +57,7 @@ members. It's a place where people help each other out.
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Stunning Sections**: Includes hero, features, pricing (monthly/yearly), FAQ, testimonials, and download software
-sections.
+👉 **Stunning Sections**: Includes hero, services, contact, and other essential agency sections.
 
 👉 **Smooth Animations**: Complex CSS for fluid animations and eye-catching effects.
 
